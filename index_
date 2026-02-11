@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade — SdGI</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      color: #222;
+      max-width: 900px;
+    }
+    h1, h2 {
+      color: #0a4a7a;
+    }
+    .box {
+      background: #f5f7fa;
+      padding: 20px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Política de Privacidade — SdGI</h1>
+
+<p><strong>Última atualização:</strong> 2026</p>
+
+<p>
+O aplicativo <strong>SdGI (Suporte de Gás Inteligente)</strong> foi desenvolvido para monitoramento remoto de equipamentos de medição de peso de recipientes de gás, permitindo visualização de dados, alertas e status do sistema.
+</p>
+
+<h2>1. Dados coletados</h2>
+<p>O aplicativo pode coletar, quando necessário para funcionamento:</p>
+<ul>
+  <li>Nome do usuário</li>
+  <li>Endereço de e-mail</li>
+  <li>Identificador do usuário</li>
+  <li>Identificador do dispositivo</li>
+  <li>Dados de uso do aplicativo</li>
+  <li>Dados de diagnóstico e falhas</li>
+  <li>Configurações definidas pelo usuário</li>
+  <li>Dados operacionais do equipamento conectado</li>
+</ul>
+
+<h2>2. Finalidade do uso</h2>
+<ul>
+  <li>Permitir o funcionamento do monitoramento remoto</li>
+  <li>Enviar alertas e notificações</li>
+  <li>Gerenciar a conta do usuário</li>
+  <li>Melhorar desempenho e estabilidade</li>
+  <li>Diagnóstico de erros</li>
+</ul>
+
+<h2>3. Serviços de terceiros</h2>
+<p>O aplicativo utiliza serviços de terceiros para sua operação:</p>
+<div class="box">
+<strong>Firebase (Google)</strong>
+<ul>
+  <li>Autenticação</li>
+  <li>Banco de dados em nuvem</li>
+  <li>Notificações push</li>
+  <li>Análises e diagnóstico</li>
+</ul>
+</div>
+
+<p>
+Esses serviços podem processar dados conforme suas próprias políticas de privacidade.
+</p>
+
+<h2>4. Compartilhamento de dados</h2>
+<p>
+Não vendemos nem comercializamos dados pessoais. Os dados não são compartilhados com terceiros para fins de marketing.
+</p>
+
+<h2>5. Armazenamento e segurança</h2>
+<p>
+Os dados são armazenados em serviços de nuvem que utilizam medidas de segurança padrão de mercado.
+</p>
+
+<h2>6. Direitos do usuário</h2>
+<p>O usuário pode solicitar:</p>
+<ul>
+  <li>Acesso aos dados</li>
+  <li>Correção de dados</li>
+  <li>Exclusão de dados</li>
+</ul>
+
+<p>Basta entrar em contato pelo e-mail de suporte.</p>
+
+<h2>7. Retenção de dados</h2>
+<p>
+Os dados são mantidos apenas pelo tempo necessário para o funcionamento do serviço.
+</p>
+
+<h2>8. Contato</h2>
+<p>
+Dúvidas sobre privacidade ou dados pessoais:
+</p>
+<p>
+<strong>Email:</strong> suportedegasinteligente@gmail.com
+</p>
+
+<h2>9. Alterações nesta política</h2>
+<p>
+Esta política pode ser atualizada periodicamente. A versão mais recente estará sempre disponível nesta página.
+</p>
+
+<hr>
+<p>© 2026 SdGI — Suporte de Gás Inteligente</p>
+
+</body>
+</html>
